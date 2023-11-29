@@ -1,4 +1,4 @@
-import { FC, RefObject, useLayoutEffect, useRef } from "react"
+import { RefObject, useLayoutEffect, useRef } from "react"
 
 export interface Rect {
   top: number
