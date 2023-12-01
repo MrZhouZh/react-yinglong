@@ -14,6 +14,9 @@ dependencies:
   react-dom:
     specifier: ^18
     version: 18.0.0(react@18.0.0)
+  screenfull:
+    specifier: ^6.0.2
+    version: 6.0.2
 
 devDependencies:
   '@types/node':
@@ -2207,6 +2210,11 @@ packages:
     resolution: {integrity: sha512-1r87x5fz9MXqswA2ERLo0EbOAU74DpIUO090gIasYTqlVoJeMcl+Z1Rg7WHz+qtPujhS/hGIt9kxZOYBV3faRQ==}
     dependencies:
       loose-envify: 1.4.0
+    dev: false
+
+  /screenfull@6.0.2:
+    resolution: {integrity: sha512-AQdy8s4WhNvUZ6P8F6PB21tSPIYKniic+Ogx0AacBMjKP1GUHN2E9URxQHtCusiwxudnCKkdy4GrHXPPJSkCCw==}
+    engines: {node: ^14.13.1 || >=16.0.0}
     dev: false
 
   /semver@6.3.1:
