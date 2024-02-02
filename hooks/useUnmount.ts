@@ -1,4 +1,4 @@
-import useEffectOnce from "./useEffectonce"
+import useEffectOnce from "./useEffectOnce"
 import useLatest from "./useLatest"
 
 // 适用于 client side
